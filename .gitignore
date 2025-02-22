@@ -1,6 +1,2 @@
-.env
-venv
-_pycache_
-pycache
-/_pycache_
+monitoramento.log
 monitoramento.log
