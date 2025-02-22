@@ -1,0 +1,618 @@
+[2025-02-06 13:57:24] [Scheduler] monitorar_agendador iniciado.
+[2025-02-06 13:57:24] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738861043.6725032).
+[2025-02-06 13:57:24] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 13:57:24] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 13:57:24] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 13:57:24] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 13:57:24] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 13:57:24] [Scheduler] Agendando 'atualizar_plan_gc' para 13:59
+[2025-02-06 13:57:24] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 13:57:24] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 13:57:24] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 13:57:24] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 15:30:00
+[2025-02-06 13:57:24] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 13:57:24] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-06 13:59:00
+[2025-02-06 13:57:24] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 13:59:36] [Scheduler] monitorar_agendador iniciado.
+[2025-02-06 13:59:36] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738861176.0679007).
+[2025-02-06 13:59:36] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 13:59:36] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 13:59:36] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 13:59:36] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 13:59:36] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 13:59:36] [Scheduler] Agendando 'atualizar_plan_gc' para 14:30
+[2025-02-06 13:59:36] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 13:59:36] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 13:59:36] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 13:59:36] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 15:30:00
+[2025-02-06 13:59:36] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 13:59:36] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-06 14:30:00
+[2025-02-06 13:59:36] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 13:59:50] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738861190.0690837).
+[2025-02-06 13:59:50] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 13:59:50] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 13:59:50] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 13:59:50] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 13:59:50] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 13:59:50] [Scheduler] Agendando 'atualizar_plan_gc' para 14:00
+[2025-02-06 13:59:50] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 13:59:50] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 13:59:50] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 13:59:50] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 15:30:00
+[2025-02-06 13:59:50] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 13:59:50] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-06 14:00:00
+[2025-02-06 13:59:50] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 14:04:38] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738861478.2628014).
+[2025-02-06 14:04:38] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 14:04:38] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 14:04:38] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 14:04:38] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 14:04:38] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 14:04:38] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 14:04:38] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 14:04:38] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 14:04:38] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 14:04:38] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 15:30:00
+[2025-02-06 14:04:38] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 14:04:38] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 14:04:38] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 15:11:37] [Scheduler] monitorar_agendador iniciado.
+[2025-02-06 15:11:37] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738865497.2793808).
+[2025-02-06 15:11:37] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 15:11:37] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 15:11:37] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 15:11:37] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 15:11:37] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 15:11:37] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 15:11:37] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 15:11:37] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 15:11:37] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 15:11:37] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 15:30:00
+[2025-02-06 15:11:37] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 15:11:37] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 15:11:37] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 15:11:42] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738865502.022269).
+[2025-02-06 15:11:42] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 15:11:42] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 15:11:42] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 15:11:42] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 15:11:42] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 15:11:42] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 15:11:42] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-06 15:11:42] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 15:11:42] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 15:11:42] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 15:30:00
+[2025-02-06 15:11:42] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 15:11:42] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 15:11:42] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:01:00
+[2025-02-06 16:06:00] [Scheduler] monitorar_agendador iniciado.
+[2025-02-06 16:06:00] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738868759.4673762).
+[2025-02-06 16:06:00] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 16:06:00] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 16:06:00] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 16:06:00] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 16:06:00] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 16:06:00] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 16:06:00] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-06 16:06:00] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 16:06:00] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 16:06:00] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-06 16:06:00] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 16:06:00] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 16:06:00] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:01:00
+[2025-02-06 16:06:05] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738868764.860747).
+[2025-02-06 16:06:05] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 16:06:05] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 16:06:05] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 16:06:05] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 16:06:05] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 16:06:05] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 16:06:05] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 16:06:05] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 16:06:05] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 16:06:05] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-06 16:06:05] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-06 16:45:00
+[2025-02-06 16:06:05] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 16:06:05] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 17:11:37] [Scheduler] monitorar_agendador iniciado.
+[2025-02-06 17:11:37] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738872697.2168884).
+[2025-02-06 17:11:37] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 17:11:37] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 17:11:37] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 17:11:37] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 17:11:37] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 17:11:37] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 17:11:37] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-06 17:11:37] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 17:11:37] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 17:11:37] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-06 17:11:37] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 16:45:00
+[2025-02-06 17:11:37] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 17:11:37] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:00:00
+[2025-02-06 17:11:42] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738872702.1114507).
+[2025-02-06 17:11:42] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-06 17:11:42] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-06 17:11:42] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-06 17:11:42] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-06 17:11:42] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-06 17:11:43] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-06 17:11:43] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-06 17:11:43] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-07 03:00:00
+[2025-02-06 17:11:43] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-06 17:11:43] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-06 17:11:43] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 16:45:00
+[2025-02-06 17:11:43] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-07 07:15:00
+[2025-02-06 17:11:43] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-07 06:01:00
+[2025-02-07 08:17:06] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738927025.4028726).
+[2025-02-07 08:17:06] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-07 08:17:06] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-07 08:17:06] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-07 08:17:06] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-07 08:17:06] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-07 08:17:06] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-07 08:17:06] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-07 08:17:06] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-08 03:00:00
+[2025-02-07 08:17:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-07 08:17:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-07 08:17:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 16:45:00
+[2025-02-07 08:17:06] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-08 07:15:00
+[2025-02-07 08:17:06] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-08 06:01:00
+[2025-02-07 08:48:25] [Scheduler] monitorar_agendador iniciado.
+[2025-02-07 08:48:25] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738928904.9594054).
+[2025-02-07 08:48:25] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-07 08:48:25] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-07 08:48:25] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-07 08:48:25] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-07 08:48:25] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-07 08:48:25] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-07 08:48:25] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-07 08:48:25] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-08 03:00:00
+[2025-02-07 08:48:25] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-07 08:48:25] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-07 08:48:25] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 16:45:00
+[2025-02-07 08:48:25] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-08 07:15:00
+[2025-02-07 08:48:25] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-08 06:01:00
+[2025-02-07 08:48:30] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1738928909.364667).
+[2025-02-07 08:48:30] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-07 08:48:30] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-07 08:48:30] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-07 08:48:30] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-07 08:48:30] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-07 08:48:30] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-07 08:48:30] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-07 08:48:30] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-08 03:00:00
+[2025-02-07 08:48:30] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 12:15:00
+[2025-02-07 08:48:30] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 15:30:00
+[2025-02-07 08:48:30] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-07 16:45:00
+[2025-02-07 08:48:30] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-08 07:15:00
+[2025-02-07 08:48:30] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-08 06:00:00
+[2025-02-08 09:07:11] [Scheduler] monitorar_agendador iniciado.
+[2025-02-08 09:07:11] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739016430.9608138).
+[2025-02-08 09:07:11] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-08 09:07:11] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-08 09:07:11] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-08 09:07:11] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-08 09:07:11] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-08 09:07:11] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-08 09:07:11] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-08 09:07:11] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-09 03:00:00
+[2025-02-08 09:07:11] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-08 12:15:00
+[2025-02-08 09:07:11] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-08 15:30:00
+[2025-02-08 09:07:11] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-08 16:45:00
+[2025-02-08 09:07:11] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-09 07:15:00
+[2025-02-08 09:07:11] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-09 06:00:00
+[2025-02-09 03:00:00] principal pulado (não é dia útil).
+[2025-02-09 06:00:00] atualizar_faturamento pulado (não é dia útil).
+[2025-02-09 07:15:00] atualizar_plan_gc pulado (não é dia útil).
+[2025-02-09 12:15:00] criticas_rn pulado (não é dia útil).
+[2025-02-09 15:30:00] criticas_rn pulado (não é dia útil).
+[2025-02-09 16:45:00] criticas_rn pulado (não é dia útil).
+[2025-02-10 08:36:26] [Scheduler] monitorar_agendador iniciado.
+[2025-02-10 08:36:26] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739187385.636336).
+[2025-02-10 08:36:26] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-10 08:36:26] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-10 08:36:26] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-10 08:36:26] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-10 08:36:26] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-10 08:36:26] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-10 08:36:26] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-10 08:36:26] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-11 03:00:00
+[2025-02-10 08:36:26] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-10 12:15:00
+[2025-02-10 08:36:26] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-10 15:30:00
+[2025-02-10 08:36:26] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-10 16:45:00
+[2025-02-10 08:36:26] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-11 07:15:00
+[2025-02-10 08:36:26] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-11 06:00:00
+[2025-02-10 15:40:04] [Scheduler] monitorar_agendador iniciado.
+[2025-02-10 15:40:04] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739212803.4252326).
+[2025-02-10 15:40:04] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-10 15:40:04] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-10 15:40:04] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-10 15:40:04] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-10 15:40:04] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-10 15:40:04] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-10 15:40:04] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-10 15:40:04] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-11 03:00:00
+[2025-02-10 15:40:04] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-11 12:15:00
+[2025-02-10 15:40:04] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-11 15:30:00
+[2025-02-10 15:40:04] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-10 16:45:00
+[2025-02-10 15:40:04] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-11 07:15:00
+[2025-02-10 15:40:04] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-11 06:00:00
+[2025-02-10 15:41:13] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739212872.6242316).
+[2025-02-10 15:41:13] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-10 15:41:13] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-10 15:41:13] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-10 15:41:13] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-10 15:41:13] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-10 15:41:13] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-10 15:41:13] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-10 15:41:13] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-11 03:00:00
+[2025-02-10 15:41:13] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-11 12:15:00
+[2025-02-10 15:41:13] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-11 15:30:00
+[2025-02-10 15:41:13] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-10 16:45:00
+[2025-02-10 15:41:13] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-11 07:15:00
+[2025-02-10 15:41:13] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-11 06:01:00
+[2025-02-11 12:24:06] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739287445.8266556).
+[2025-02-11 12:24:06] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-11 12:24:06] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-11 12:24:06] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-11 12:24:06] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-11 12:24:06] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-11 12:24:06] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-11 12:24:06] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-11 12:24:06] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-12 03:00:00
+[2025-02-11 12:24:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-12 12:15:00
+[2025-02-11 12:24:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-11 15:30:00
+[2025-02-11 12:24:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-11 16:45:00
+[2025-02-11 12:24:06] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-12 07:15:00
+[2025-02-11 12:24:06] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-12 06:01:00
+[2025-02-13 20:21:06] [Scheduler] monitorar_agendador iniciado.
+[2025-02-13 20:21:06] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739488865.616534).
+[2025-02-13 20:21:06] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-13 20:21:06] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-13 20:21:06] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-13 20:21:06] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-13 20:21:06] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-13 20:21:06] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-13 20:21:06] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-13 20:21:06] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-14 03:00:00
+[2025-02-13 20:21:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 12:15:00
+[2025-02-13 20:21:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 15:30:00
+[2025-02-13 20:21:06] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 16:45:00
+[2025-02-13 20:21:06] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-14 07:15:00
+[2025-02-13 20:21:06] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-14 06:01:00
+[2025-02-13 20:21:12] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739488872.3906622).
+[2025-02-13 20:21:12] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-13 20:21:12] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-13 20:21:12] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-13 20:21:12] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-13 20:21:12] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-13 20:21:12] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-13 20:21:12] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-13 20:21:12] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-14 03:00:00
+[2025-02-13 20:21:12] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 12:15:00
+[2025-02-13 20:21:12] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 15:30:00
+[2025-02-13 20:21:12] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 16:45:00
+[2025-02-13 20:21:12] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-14 07:15:00
+[2025-02-13 20:21:12] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-14 06:00:00
+[2025-02-14 08:35:05] [Scheduler] monitorar_agendador iniciado.
+[2025-02-14 08:35:05] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739532904.4864693).
+[2025-02-14 08:35:05] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-14 08:35:05] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-14 08:35:05] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-14 08:35:05] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-14 08:35:05] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-14 08:35:05] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-14 08:35:05] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-14 08:35:05] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-15 03:00:00
+[2025-02-14 08:35:05] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 12:15:00
+[2025-02-14 08:35:05] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 15:30:00
+[2025-02-14 08:35:05] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 16:45:00
+[2025-02-14 08:35:05] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-15 07:15:00
+[2025-02-14 08:35:05] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-15 06:00:00
+[2025-02-14 08:35:08] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739532908.4961216).
+[2025-02-14 08:35:08] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-14 08:35:08] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-14 08:35:08] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-14 08:35:08] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-14 08:35:08] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-14 08:35:08] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-14 08:35:08] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-14 08:35:08] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-15 03:00:00
+[2025-02-14 08:35:08] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 12:15:00
+[2025-02-14 08:35:08] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 15:30:00
+[2025-02-14 08:35:08] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-14 16:45:00
+[2025-02-14 08:35:08] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-15 07:15:00
+[2025-02-14 08:35:08] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-15 06:01:00
+[2025-02-16 03:00:00] principal pulado (não é dia útil).
+[2025-02-16 06:01:00] atualizar_faturamento pulado (não é dia útil).
+[2025-02-16 07:15:00] atualizar_plan_gc pulado (não é dia útil).
+[2025-02-16 12:15:00] criticas_rn pulado (não é dia útil).
+[2025-02-16 15:30:00] criticas_rn pulado (não é dia útil).
+[2025-02-16 16:45:00] criticas_rn pulado (não é dia útil).
+[2025-02-17 16:31:25] [Scheduler] monitorar_agendador iniciado.
+[2025-02-17 16:31:25] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739820685.4367142).
+[2025-02-17 16:31:25] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:31:25] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:31:25] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:31:25] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:31:25] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-17 16:31:25] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:31:25] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:31:25] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:31:25] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:31:25] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:31:25] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-17 16:45:00
+[2025-02-17 16:31:25] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:31:25] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:50:28] [Scheduler] monitorar_agendador iniciado.
+[2025-02-17 16:50:28] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821828.4407198).
+[2025-02-17 16:50:28] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:50:28] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:50:28] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:50:28] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:50:28] [Scheduler] Agendando 'criticas_rn' para 16:52
+[2025-02-17 16:50:28] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:50:28] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:50:28] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:50:28] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:50:28] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:50:28] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-17 16:52:00
+[2025-02-17 16:50:28] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:50:28] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:50:34] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821833.6589308).
+[2025-02-17 16:50:34] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:50:34] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:50:34] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:50:34] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:50:34] [Scheduler] Agendando 'criticas_rn' para 16:53
+[2025-02-17 16:50:34] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:50:34] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:50:34] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:50:34] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:50:34] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:50:34] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-17 16:53:00
+[2025-02-17 16:50:34] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:50:34] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:50:40] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821839.9593737).
+[2025-02-17 16:50:40] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:50:40] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:50:40] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:50:40] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:50:40] [Scheduler] Agendando 'criticas_rn' para 16:53
+[2025-02-17 16:50:40] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:50:40] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:50:40] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:50:40] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:50:40] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:50:40] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-17 16:53:00
+[2025-02-17 16:50:40] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:50:40] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:54:39] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821833.6589308).
+[2025-02-17 16:54:39] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:54:39] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:54:39] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:54:39] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:54:39] [Scheduler] Agendando 'criticas_rn' para 16:53
+[2025-02-17 16:54:39] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:54:39] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:54:39] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:54:39] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:54:39] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:54:39] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 16:53:00
+[2025-02-17 16:54:39] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:54:39] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:54:44] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821839.9593737).
+[2025-02-17 16:54:44] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:54:44] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:54:44] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:54:44] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:54:44] [Scheduler] Agendando 'criticas_rn' para 16:53
+[2025-02-17 16:54:44] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:54:44] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:54:44] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:54:44] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:54:44] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:54:44] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 16:53:00
+[2025-02-17 16:54:44] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:54:44] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:54:47] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739532908.4961216).
+[2025-02-17 16:54:47] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:54:47] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:54:47] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:54:47] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:54:47] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-17 16:54:47] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:54:47] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:54:47] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:54:47] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:54:47] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:54:47] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 16:45:00
+[2025-02-17 16:54:47] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:54:47] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:54:51] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821839.9593737).
+[2025-02-17 16:54:51] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:54:51] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:54:51] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:54:51] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:54:51] [Scheduler] Agendando 'criticas_rn' para 16:53
+[2025-02-17 16:54:51] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:54:51] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:54:51] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:54:51] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:54:51] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:54:51] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 16:53:00
+[2025-02-17 16:54:51] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:54:51] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:54:53] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739532908.4961216).
+[2025-02-17 16:54:53] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:54:53] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:54:53] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:54:53] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:54:53] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-17 16:54:53] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:54:53] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:54:53] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:54:53] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:54:53] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:54:53] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 16:45:00
+[2025-02-17 16:54:53] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:54:53] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:55:01] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739821839.9593737).
+[2025-02-17 16:55:01] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:55:01] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:55:01] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:55:01] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:55:01] [Scheduler] Agendando 'criticas_rn' para 16:53
+[2025-02-17 16:55:01] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:55:01] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:55:01] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:55:01] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:55:01] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:55:01] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 16:53:00
+[2025-02-17 16:55:01] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:55:01] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:55:33] [Scheduler] monitorar_agendador iniciado.
+[2025-02-17 16:55:33] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739822132.9305968).
+[2025-02-17 16:55:33] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:55:33] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:55:33] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:55:33] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:55:33] [Scheduler] Agendando 'criticas_rn' para 16:57
+[2025-02-17 16:55:33] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:55:33] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:55:33] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:55:33] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:55:33] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:55:33] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-17 16:57:00
+[2025-02-17 16:55:33] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:55:33] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-17 16:55:39] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1739822139.0037472).
+[2025-02-17 16:55:39] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-17 16:55:39] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-17 16:55:39] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-17 16:55:39] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-17 16:55:39] [Scheduler] Agendando 'criticas_rn' para 16:56
+[2025-02-17 16:55:39] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-17 16:55:39] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-17 16:55:39] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-18 03:00:00
+[2025-02-17 16:55:39] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 12:15:00
+[2025-02-17 16:55:39] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-18 15:30:00
+[2025-02-17 16:55:39] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-17 16:56:00
+[2025-02-17 16:55:39] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-18 07:15:00
+[2025-02-17 16:55:39] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-18 06:01:00
+[2025-02-20 14:40:14] [Scheduler] monitorar_agendador iniciado.
+[2025-02-20 14:40:14] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740073213.7292914).
+[2025-02-20 14:40:14] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-20 14:40:14] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-20 14:40:14] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-20 14:40:14] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-20 14:40:14] [Scheduler] Agendando 'criticas_rn' para 16:56
+[2025-02-20 14:40:14] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-20 14:40:14] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-20 14:40:14] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-21 03:00:00
+[2025-02-20 14:40:14] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 12:15:00
+[2025-02-20 14:40:14] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-20 15:30:00
+[2025-02-20 14:40:14] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-20 16:56:00
+[2025-02-20 14:40:14] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-21 07:15:00
+[2025-02-20 14:40:14] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-21 06:01:00
+[2025-02-20 14:40:21] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740073220.0243773).
+[2025-02-20 14:40:21] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-20 14:40:21] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-20 14:40:21] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-20 14:40:21] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-20 14:40:21] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-20 14:40:21] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-20 14:40:21] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-20 14:40:21] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-21 03:00:00
+[2025-02-20 14:40:21] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 12:15:00
+[2025-02-20 14:40:21] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-20 15:30:00
+[2025-02-20 14:40:21] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-20 16:45:00
+[2025-02-20 14:40:21] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-21 07:15:00
+[2025-02-20 14:40:21] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-21 06:01:00
+[2025-02-20 16:13:20] [Scheduler] monitorar_agendador iniciado.
+[2025-02-20 16:13:20] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740078799.5612578).
+[2025-02-20 16:13:20] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-20 16:13:20] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-20 16:13:20] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-20 16:13:20] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-20 16:13:20] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-20 16:13:20] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-20 16:13:20] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-20 16:13:20] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-21 03:00:00
+[2025-02-20 16:13:20] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 12:15:00
+[2025-02-20 16:13:20] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 15:30:00
+[2025-02-20 16:13:20] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-20 16:45:00
+[2025-02-20 16:13:20] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-21 07:15:00
+[2025-02-20 16:13:20] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-21 06:01:00
+[2025-02-20 16:13:24] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740078803.5569437).
+[2025-02-20 16:13:24] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-20 16:13:24] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-20 16:13:24] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-20 16:13:24] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-20 16:13:24] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-20 16:13:24] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-20 16:13:24] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-20 16:13:24] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-21 03:00:00
+[2025-02-20 16:13:24] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 12:15:00
+[2025-02-20 16:13:24] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 15:30:00
+[2025-02-20 16:13:24] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-20 16:45:00
+[2025-02-20 16:13:24] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-21 07:15:00
+[2025-02-20 16:13:24] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-21 06:00:00
+[2025-02-21 16:27:52] [Scheduler] monitorar_agendador iniciado.
+[2025-02-21 16:27:52] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740166071.7669506).
+[2025-02-21 16:27:52] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-21 16:27:52] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-21 16:27:52] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-21 16:27:52] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-21 16:27:52] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-21 16:27:52] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-21 16:27:52] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-21 16:27:52] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-22 03:00:00
+[2025-02-21 16:27:52] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 12:15:00
+[2025-02-21 16:27:52] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 15:30:00
+[2025-02-21 16:27:52] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 16:45:00
+[2025-02-21 16:27:52] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-22 07:15:00
+[2025-02-21 16:27:52] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-22 06:00:00
+[2025-02-21 16:27:59] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740166078.3945172).
+[2025-02-21 16:27:59] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-21 16:27:59] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-21 16:27:59] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-21 16:27:59] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-21 16:27:59] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-21 16:27:59] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-21 16:27:59] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-21 16:27:59] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-22 03:00:00
+[2025-02-21 16:27:59] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 12:15:00
+[2025-02-21 16:27:59] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 15:30:00
+[2025-02-21 16:27:59] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-21 16:45:00
+[2025-02-21 16:27:59] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-22 07:15:00
+[2025-02-21 16:27:59] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-22 06:01:00
+[2025-02-22 08:13:03] [Scheduler] monitorar_agendador iniciado.
+[2025-02-22 08:13:03] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740222783.5800533).
+[2025-02-22 08:13:03] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-22 08:13:03] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-22 08:13:03] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-22 08:13:03] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-22 08:13:03] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-22 08:13:03] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-22 08:13:04] [Scheduler] Agendando 'atualizar_faturamento' para 06:01
+[2025-02-22 08:13:04] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-23 03:00:00
+[2025-02-22 08:13:04] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 12:15:00
+[2025-02-22 08:13:04] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 15:30:00
+[2025-02-22 08:13:04] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 16:45:00
+[2025-02-22 08:13:04] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-23 07:15:00
+[2025-02-22 08:13:04] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-23 06:01:00
+[2025-02-22 08:14:00] [Scheduler] Detecção de alteração em schedule_config.json (ultima_modificacao=1740222839.4743416).
+[2025-02-22 08:14:00] [Scheduler] Limpando agendamentos anteriores...
+[2025-02-22 08:14:00] [Scheduler] Agendando 'principal' para 03:00
+[2025-02-22 08:14:00] [Scheduler] Agendando 'criticas_rn' para 12:15
+[2025-02-22 08:14:00] [Scheduler] Agendando 'criticas_rn' para 15:30
+[2025-02-22 08:14:00] [Scheduler] Agendando 'criticas_rn' para 16:45
+[2025-02-22 08:14:00] [Scheduler] Agendando 'atualizar_plan_gc' para 07:15
+[2025-02-22 08:14:00] [Scheduler] Agendando 'atualizar_faturamento' para 06:00
+[2025-02-22 08:14:00] [Scheduler] -> Tarefa: executar_principal, Próxima execução: 2025-02-23 03:00:00
+[2025-02-22 08:14:00] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 12:15:00
+[2025-02-22 08:14:00] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 15:30:00
+[2025-02-22 08:14:00] [Scheduler] -> Tarefa: executar_criticas_rn, Próxima execução: 2025-02-22 16:45:00
+[2025-02-22 08:14:00] [Scheduler] -> Tarefa: executar_atualizar_plan_gc, Próxima execução: 2025-02-23 07:15:00
+[2025-02-22 08:14:00] [Scheduler] -> Tarefa: executar_atualizar_faturamento, Próxima execução: 2025-02-23 06:00:00

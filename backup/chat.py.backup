@@ -1,0 +1,75 @@
+import streamlit as st
+from dotenv import load_dotenv
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_community.vectorstores import FAISS
+from langchain_community.document_loaders import CSVLoader
+from langchain_openai import OpenAIEmbeddings
+from langchain_core.runnables import RunnablePassthrough
+from langchain_openai import ChatOpenAI
+
+# Carregar variáveis de ambiente
+load_dotenv()
+
+# Configuração da interface no Streamlit
+st.set_page_config(page_title="Chat RAG", layout="centered")
+st.title("🤖 Chat RAG - Atendente Virtual")
+
+# Carregar base de dados
+loader = CSVLoader(file_path="knowledge_base.csv")
+documents = loader.load()
+embeddings = OpenAIEmbeddings()
+vectorstore = FAISS.from_documents(documents, embeddings)
+retriever = vectorstore.as_retriever()
+
+# Configuração do modelo de linguagem
+llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.4, max_tokens=50)
+
+# Template do prompt
+rag_template = """
+Você é um atendente de uma empresa.
+Seu trabalho é conversar com os clientes, consultando a base de
+conhecimentos da empresa, e dar
+uma resposta simples e precisa, baseada na
+base de dados da empresa fornecida como
+contexto.
+
+Contexto: {context}
+
+Pergunta do cliente: {question}
+"""
+prompt = ChatPromptTemplate.from_template(rag_template)
+
+# Função para processar a interação
+def generate_response(user_input):
+    # Recuperar contexto relevante
+    context = retriever.get_relevant_documents(user_input)
+    # Combinar contexto e pergunta no template
+    formatted_prompt = prompt.format_prompt(context=context, question=user_input).to_string()
+    # Gerar resposta do modelo
+    response = llm(formatted_prompt)
+    return response.content
+
+# Inicializar histórico de mensagens
+if "messages" not in st.session_state:
+    st.session_state.messages = [{"role": "assistant", "content": "Olá! Como posso te ajudar hoje?"}]
+
+# Exibir mensagens do chat
+for msg in st.session_state.messages:
+    if msg["role"] == "user":
+        st.chat_message("user").write(msg["content"])
+    else:
+        st.chat_message("assistant").write(msg["content"])
+
+# Caixa de entrada para o usuário
+if user_input := st.chat_input("Digite sua pergunta aqui..."):
+    # Registrar a pergunta do usuário no histórico
+    st.session_state.messages.append({"role": "user", "content": user_input})
+    st.chat_message("user").write(user_input)
+
+    # Gerar resposta do assistente
+    with st.chat_message("assistant"):
+        with st.spinner("Pensando..."):
+            response = generate_response(user_input)
+            st.write(response)
+            # Registrar resposta no histórico
+            st.session_state.messages.append({"role": "assistant", "content": response})

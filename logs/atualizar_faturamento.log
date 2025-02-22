@@ -1,0 +1,218 @@
+
+--- Execução iniciada em 2025-01-28 16:47:00 ---
+[2025-01-28 16:47:01] atualizar_faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-29 15:17:59 ---
+
+--- Execução iniciada em 2025-01-29 15:24:00 ---
+[2025-01-29 15:24:01] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-29 15:26:00 ---
+[2025-01-29 15:26:01] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-29 15:41:00 ---
+2025-01-29 15:42:05.731 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-29 15:42:05.996
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-01-29 15:42:05.996 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+[2025-01-29 15:42:08] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução 'atualizar_faturamento' iniciada em 2025-01-29 15:50:00 ---
+2025-01-29 15:51:05.986 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-29 15:51:06.236
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-01-29 15:51:06.236 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+[2025-01-29 15:51:06] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-29 18:11:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+2025-01-29 18:12:07.019 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-29 18:12:07.301
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-01-29 18:12:07.301 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-01-29 18:12:10] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-30 06:00:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+2025-01-30 06:01:07.934 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-30 06:01:08.199
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-01-30 06:01:08.199 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-01-30 06:01:10] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-31 06:01:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+2025-01-31 06:02:32.591 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-31 06:02:32.947
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-01-31 06:02:32.947 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-01-31 06:02:35] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-02-01 06:00:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+2025-02-01 06:01:20.558 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-01 06:01:20.917
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-02-01 06:01:20.917 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-01 06:01:21] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-02-03 06:01:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+2025-02-03 06:02:27.843 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-03 06:02:28.199
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-02-03 06:02:28.199 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-03 06:02:28] Atualizar Faturamento finalizado com sucesso.
+
+--- Execução iniciada em 2025-02-04 06:01:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Macro 'AtualizarKnowledgeBase' executada com sucesso.
+Planilha salva e fechada.
+Excel encerrado.
+2025-02-04 06:02:26.619 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-04 06:02:27.009
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_faturamento.py [ARGUMENTS]
+2025-02-04 06:02:27.009 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-04 06:02:27] Atualizar Faturamento finalizado com sucesso.
+[2025-02-07 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-07 06:01:10] Planilha aberta com sucesso.
+[2025-02-07 06:01:16] Atualizando conex�es...
+[2025-02-07 06:02:15] Atualiza��o conclu�da.
+[2025-02-07 06:02:17] Macro 'AtualizarKnowledgeBase' executada com sucesso.
+[2025-02-07 06:02:26] Planilha salva e fechada.
+[2025-02-07 06:02:27] Excel encerrado.
+[2025-02-07 06:02:27] 2025-02-07 06:02:26.655 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-07 06:02:27] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-08 06:00:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-08 06:00:10] Planilha aberta com sucesso.
+[2025-02-08 06:00:15] Atualizando conex�es...
+[2025-02-08 06:01:16] Atualiza��o conclu�da.
+[2025-02-08 06:01:17] Macro 'AtualizarKnowledgeBase' executada com sucesso.
+[2025-02-08 06:01:28] Planilha salva e fechada.
+[2025-02-08 06:01:28] Excel encerrado.
+[2025-02-08 06:01:29] 2025-02-08 06:01:28.015 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-08 06:01:29] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-11 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-11 06:01:11] Planilha aberta com sucesso.
+[2025-02-11 06:01:17] Atualizando conex�es...
+[2025-02-11 06:02:52] Atualiza��o conclu�da.
+[2025-02-11 06:02:55] Macro 'AtualizarKnowledgeBase' executada com sucesso.
+[2025-02-11 06:03:05] Planilha salva e fechada.
+[2025-02-11 06:03:06] Excel encerrado.
+[2025-02-11 06:03:06] 2025-02-11 06:03:05.813 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-11 06:03:06] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-12 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-12 06:01:13] Planilha aberta com sucesso.
+[2025-02-12 06:01:20] Atualizando conex�es...
+[2025-02-12 06:02:57] Atualiza��o conclu�da.
+[2025-02-12 06:03:00] Macro 'AtualizarKnowledgeBase' executada com sucesso.
+[2025-02-12 06:03:10] Planilha salva e fechada.
+[2025-02-12 06:03:11] Excel encerrado.
+[2025-02-12 06:03:11] 2025-02-12 06:03:10.562 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-12 06:03:11] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-13 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-13 06:01:11] Planilha aberta com sucesso.
+[2025-02-13 06:01:16] Atualizando conex�es...
+[2025-02-13 06:02:52] Atualiza��o conclu�da.
+[2025-02-13 06:02:54] Macro 'AtualizarKnowledgeBase' executada com sucesso.
+[2025-02-13 06:03:04] Planilha salva e fechada.
+[2025-02-13 06:03:05] Excel encerrado.
+[2025-02-13 06:03:05] 2025-02-13 06:03:04.911 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-13 06:03:05] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-15 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-15 06:01:03] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-15 06:01:04] 2025-02-15 06:01:03.840 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-15 06:01:04] 2025-02-15 06:01:04.220 
+[2025-02-15 06:01:04] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-17 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-17 06:01:07] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-17 06:01:08] 2025-02-17 06:01:07.886 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-17 06:01:08] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-18 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-18 06:01:03] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-18 06:01:03] 2025-02-18 06:01:03.180 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-18 06:01:04] 2025-02-18 06:01:03.619 
+[2025-02-18 06:01:04] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-19 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-19 06:01:03] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-19 06:01:03] 2025-02-19 06:01:03.451 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-19 06:01:04] 2025-02-19 06:01:03.919 
+[2025-02-19 06:01:04] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-20 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-20 06:01:03] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-20 06:01:04] 2025-02-20 06:01:03.529 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-20 06:01:04] 2025-02-20 06:01:03.919 
+[2025-02-20 06:01:04] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-21 06:00:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-21 06:00:03] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-21 06:00:04] 2025-02-21 06:00:03.784 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-21 06:00:04] 2025-02-21 06:00:04.221 
+[2025-02-21 06:00:04] Atualizar Faturamento finalizado com sucesso. [returncode=0]
+[2025-02-22 06:01:00] [Scheduler] Iniciando Atualizar Faturamento ...
+[2025-02-22 06:01:03] Erro ao atualizar/rodar macro na planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-22 06:01:03] 2025-02-22 06:01:03.451 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-22 06:01:04] 2025-02-22 06:01:03.939 
+[2025-02-22 06:01:04] Atualizar Faturamento finalizado com sucesso. [returncode=0]

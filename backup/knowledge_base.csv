@@ -1,0 +1,8 @@
+categoria;subcategoria;indicador;meta;real;percentual_atual;melhores_vendedores;piores_vendedores;dias_faltantes;data_atualizacao;fonte
+KPI;Vendas;Cerveja Total;36837;8901;24%;257 - Wellington Eduardo , 159 - Paulo Gomes, 151 - Ana Carolina, 258 - Carlos Souza, 153 - Pedro Iago;619 - Danilo Rodrigues, 608 - Jeconias, 600 - Igor Carrara, 719 - Michaél Thomé, 519 - Luis Guilherme;16;27/12/2024;Gestão comercial.xlsx
+Recurso;Vendas;Pote GC;25000;15000;60%;;;16;28/12/2024;Gestão do recurso.xlsx
+Recurso;Vendas;Pote do GC;10000;5000;60%;;;16;28/12/2024;Gestão do recurso.xlsx
+KPI;Vendas;Faturamento;0;21649833,01;S/Desdobramento;700 - Felipe Ivanhoé, 719 - Michaél Thomé, 608 - Jeconias, 600 - Igor Carrara, 519 - Luis Guilherme;257 - Wellington Eduardo , 159 - Paulo Gomes, 151 - Ana Carolina, 258 - Carlos Souza, 153 - Pedro Iago;6;24/01/2025;BI.
+KPI;Vendas;Faturamento 2024;0;34040016,7399999,31044659,8699998,27755588,4799999,32657846,1599999,32583810,3299999,30256344,45,31608993,98,35100290,13,34505033,0299999,38076158,5599998,37227534,97,44241614,97;S/Desdobramento;1;11;16;16/01/2025;BI Revenda
+KPI;Vendas;Faturamento 2025;0;12589907,71,0,0,0,0,0,0,0,0,0,0,0;S/Desdobramento;2;22;16;16/01/2025;BI Revenda
+KPI;Vendas;Faturamento 2024 x 2025;0;12589907,71,0,0,0,0,0,0,0,0,0,0,0/34040016,7399999,31044659,8699998,27755588,4799999,32657846,1599999,32583810,3299999,30256344,45,31608993,98,35100290,13,34505033,0299999,38076158,5599998,37227534,97,44241614,97;S/Desdobramento;3;33;16;16/01/2025;BI Revenda

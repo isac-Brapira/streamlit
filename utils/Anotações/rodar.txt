@@ -1,0 +1,4 @@
+streamlit run app.py --server.address=192.168.1.22 --server.port=8502
+streamlit run main.py --server.address=192.168.1.22 --server.port=8502
+
+ZSSERVER /server /p 8502 /d \\.\display2 /r 30 /start

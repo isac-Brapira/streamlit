@@ -1,0 +1,36 @@
+{
+    "ativo": true,
+    "horario": "03:00",
+    "horario_faturamento": "06:00",
+    "horarios_criticas_rn": [
+        "12:15",
+        "15:30",
+        "16:45"
+    ],
+    "tarefas": [
+        {
+            "nome": "principal",
+            "horarios": [
+                "03:00"
+            ]
+        },
+        {
+            "nome": "criticas_rn",
+            "horarios": [
+                "12:15",
+                "15:30",
+                "16:45"
+            ]
+        },
+        {
+            "nome": "atualizar_plan_gc",
+            "horarios": "07:15"
+        },
+        {
+            "nome": "atualizar_faturamento",
+            "horarios": "06:00"
+        }
+    ],
+    "horario_gc": "07:15",
+    "ultima_modificacao": "1740222839.4743416"
+}

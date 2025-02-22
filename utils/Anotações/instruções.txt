@@ -1,0 +1,10 @@
+Como executar o projeto?
+Vem co tutorials do pai
+
+1. Verificar se está dentro do ambiente de desenvolvimento (venv) ou se possui todas as bibliotecas instaladas
+Como executar o passo 1:
+
+
+2. 
+3.
+4. 

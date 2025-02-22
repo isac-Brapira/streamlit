@@ -1,0 +1,13 @@
+Supabase (ONLINE - off)
+diego@brapira.com.br
+Tchola123@
+Nome DB:Atendente-IA
+Senha DB:500KLA@
+DB URL:https://bkvedxskfwelwtqssajf.supabase.co
+
+PostgreSQL (LOCAL - on maquina Gui) - USADO PARA LOGIN
+DB_NAME=atendente_brapira
+DB_USER=postgres
+DB_PASSWORD=root
+DB_HOST=localhost
+DB_PORT=5432
