@@ -40781,3 +40781,36 @@ Arquivo - 719_Critica.pdf
 [2025-02-21 17:06:04] [MAIN] Driver fechado ao final de todas as rotinas.
 [2025-02-21 17:06:05] [MAIN] Execução de rotinas finalizada.
 [2025-02-21 17:06:09] Críticas RN finalizado com sucesso. [returncode=0]
+[2025-02-22 12:15:00] [Scheduler] Iniciando Críticas RN ...
+[2025-02-22 12:15:04] >>> [MAIN] Entrando em main() no main.py, PID: 11752
+[2025-02-22 12:15:05] 
+[2025-02-22 12:15:05] CREDENCIAIS DE LOGIN ENCONTRADAS
+[2025-02-22 12:15:06] 
+[2025-02-22 12:15:06] >>> Carregamento inicial concluído!
+[2025-02-22 12:15:07] 
+[2025-02-22 12:15:08] >>> Configurações carregadas!
+[2025-02-22 12:15:08] 
+[2025-02-22 12:15:09] 
+[2025-02-22 12:15:09] [MAIN] Preparando rotina: 030111
+[2025-02-22 15:30:00] [Scheduler] Iniciando Críticas RN ...
+[2025-02-22 15:30:03] >>> [MAIN] Entrando em main() no main.py, PID: 11940
+[2025-02-22 15:30:04] 
+[2025-02-22 15:30:04] CREDENCIAIS DE LOGIN ENCONTRADAS
+[2025-02-22 15:30:05] 
+[2025-02-22 15:30:05] >>> Carregamento inicial concluído!
+[2025-02-22 15:30:06] 
+[2025-02-22 15:30:06] >>> Configurações carregadas!
+[2025-02-22 15:30:07] 
+[2025-02-22 15:30:08] 
+[2025-02-22 15:30:08] [MAIN] Preparando rotina: 030111
+[2025-02-22 16:45:00] [Scheduler] Iniciando Críticas RN ...
+[2025-02-22 16:45:03] >>> [MAIN] Entrando em main() no main.py, PID: 8280
+[2025-02-22 16:45:04] 
+[2025-02-22 16:45:05] CREDENCIAIS DE LOGIN ENCONTRADAS
+[2025-02-22 16:45:05] 
+[2025-02-22 16:45:06] >>> Carregamento inicial concluído!
+[2025-02-22 16:45:06] 
+[2025-02-22 16:45:07] >>> Configurações carregadas!
+[2025-02-22 16:45:07] 
+[2025-02-22 16:45:08] 
+[2025-02-22 16:45:09] [MAIN] Preparando rotina: 030111
