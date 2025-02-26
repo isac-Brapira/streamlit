@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  # Serviço do banco de dados PostgreSQL
+  db:
+    image: postgres:13
+    container_name: brapilot_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin1
+      POSTGRES_DB: brapilot
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # Serviço do app
+  app:
+    build: .
+    container_name: brapilot_app
+    ports:
+      - "8501:8501"
+    environment:
+      DB_HOST: db
+      DB_NAME: brapilot
+      DB_USER: postgres
+      DB_PASSWORD: admin1
+      DB_PORT: 5432
+    depends_on:
+      - db
+    volumes:
+      - .:/app
+
+# Volume para persistir os dados do PostgreSQL
+volumes:
+  postgres_data:

@@ -1,0 +1,153 @@
+
+--- Execução iniciada em 2025-01-30 10:57:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Planilha salva e fechada.
+Excel encerrado.
+2025-01-30 10:59:50.908 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-30 10:59:51.172
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_gc.py [ARGUMENTS]
+2025-01-30 10:59:51.172 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-01-30 10:59:54] Atualizar Planilha GC finalizado com sucesso.
+
+--- Execução iniciada em 2025-01-31 07:15:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Planilha salva e fechada.
+Excel encerrado.
+2025-01-31 07:17:50.933 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-01-31 07:17:51.192
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_gc.py [ARGUMENTS]
+2025-01-31 07:17:51.192 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-01-31 07:17:51] Atualizar Planilha GC finalizado com sucesso.
+
+--- Execução iniciada em 2025-02-01 07:15:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Planilha salva e fechada.
+Excel encerrado.
+2025-02-01 07:17:29.552 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-01 07:17:29.833
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_gc.py [ARGUMENTS]
+2025-02-01 07:17:29.833 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-01 07:17:32] Atualizar Planilha GC finalizado com sucesso.
+
+--- Execução iniciada em 2025-02-03 07:15:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Planilha salva e fechada.
+Excel encerrado.
+2025-02-03 07:17:20.720 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-03 07:17:20.985
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_gc.py [ARGUMENTS]
+2025-02-03 07:17:20.985 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-03 07:17:21] Atualizar Planilha GC finalizado com sucesso.
+
+--- Execução iniciada em 2025-02-04 07:15:00 ---
+Planilha aberta com sucesso.
+Atualizando conex�es...
+Atualiza��o conclu�da.
+Planilha salva e fechada.
+Excel encerrado.
+2025-02-04 07:17:24.343 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-04 07:17:24.608
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run \\192.168.1.213\Administrativo\TecInfo\DESENVOLVIMENTOS\atendente-IA-v1\functions\plan_gc.py [ARGUMENTS]
+2025-02-04 07:17:24.608 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-04 07:17:27] Atualizar Planilha GC finalizado com sucesso.
+[2025-02-06 14:00:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-06 14:01:23] Planilha aberta com sucesso.
+[2025-02-06 14:02:01] Atualizando conex�es...
+[2025-02-06 14:02:25] Atualiza��o conclu�da.
+[2025-02-06 14:03:29] Planilha salva e fechada.
+[2025-02-06 14:03:31] Excel encerrado.
+[2025-02-06 14:03:31] 2025-02-06 14:03:31.281 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-06 14:03:32] 2025-02-06 14:03:31.694 
+[2025-02-06 14:03:32]   [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+[2025-02-06 14:03:32] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-07 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-07 07:16:08] Planilha aberta com sucesso.
+[2025-02-07 07:16:16] Atualizando conex�es...
+[2025-02-07 07:16:31] Atualiza��o conclu�da.
+[2025-02-07 07:17:32] Planilha salva e fechada.
+[2025-02-07 07:17:32] Excel encerrado.
+[2025-02-07 07:17:33] 2025-02-07 07:17:32.669 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-07 07:17:33] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-08 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-08 07:16:14] Planilha aberta com sucesso.
+[2025-02-08 07:16:23] Atualizando conex�es...
+[2025-02-08 07:16:39] Atualiza��o conclu�da.
+[2025-02-08 07:17:40] Planilha salva e fechada.
+[2025-02-08 07:17:40] Excel encerrado.
+[2025-02-08 07:17:41] 2025-02-08 07:17:40.106 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-08 07:17:41] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-11 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-11 07:16:11] Planilha aberta com sucesso.
+[2025-02-11 07:16:19] Atualizando conex�es...
+[2025-02-11 07:16:37] Atualiza��o conclu�da.
+[2025-02-11 07:17:39] Planilha salva e fechada.
+[2025-02-11 07:17:40] Excel encerrado.
+[2025-02-11 07:17:40] 2025-02-11 07:17:39.501 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-11 07:17:40] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-12 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-12 07:16:10] Planilha aberta com sucesso.
+[2025-02-12 07:16:19] Atualizando conex�es...
+[2025-02-12 07:16:37] Atualiza��o conclu�da.
+[2025-02-12 07:17:42] Planilha salva e fechada.
+[2025-02-12 07:17:43] Excel encerrado.
+[2025-02-12 07:17:43] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-13 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-13 07:16:10] Planilha aberta com sucesso.
+[2025-02-13 07:16:19] Atualizando conex�es...
+[2025-02-13 07:16:36] Atualiza��o conclu�da.
+[2025-02-13 07:17:39] Planilha salva e fechada.
+[2025-02-13 07:17:39] Excel encerrado.
+[2025-02-13 07:17:40] 2025-02-13 07:17:39.131 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-13 07:17:40] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-15 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-15 07:15:02] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-15 07:15:03] 2025-02-15 07:15:02.500 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-15 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-17 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-17 07:15:03] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-17 07:15:03] 2025-02-17 07:15:03.093 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-17 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-18 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-18 07:15:02] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-18 07:15:02] 2025-02-18 07:15:02.318 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-18 07:15:03] 2025-02-18 07:15:02.661 
+[2025-02-18 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-19 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-19 07:15:02] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-19 07:15:03] 2025-02-19 07:15:02.707 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-19 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-20 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-20 07:15:02] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-20 07:15:03] 2025-02-20 07:15:02.515 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-20 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-21 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-21 07:15:03] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-21 07:15:03] 2025-02-21 07:15:03.018 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-21 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
+[2025-02-22 07:15:00] [Scheduler] Iniciando Atualizar Planilha GC ...
+[2025-02-22 07:15:03] Erro ao atualizar a planilha: module 'win32com.gen_py.00020813-0000-0000-C000-000000000046x0x1x9' has no attribute 'CLSIDToClassMap'
+[2025-02-22 07:15:03] 2025-02-22 07:15:03.155 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+[2025-02-22 07:15:03] Atualizar Planilha GC finalizado com sucesso. [returncode=0]
